@@ -13,6 +13,10 @@ You will also need to have software installed to run and execute a [Jupyter Note
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has 
 the above packages and more included.
 
+# Dataset
+   The dataset is obtained from Kaggle.Here is the link,
+   https://www.kaggle.com/mirichoi0218/insurance
+   
 # Description of the repository
 This repository contains 2 notebooks
   1. Linear Regression-Insurance Dataset.ipynb: 
