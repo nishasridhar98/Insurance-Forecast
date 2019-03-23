@@ -44,5 +44,5 @@ This repository contains 2 notebooks
 # Models Trained 
   | Training Model  | Root mean squared error |
   | ----------------| ------------------------|
-  | Multivariate Linear Regression | 0.0705   |
-  | Using Sklearn                  | 0.0905   |
+  | Multivariate Linear Regression | 0.075   |
+  | Using Sklearn                  | 0.087   |
