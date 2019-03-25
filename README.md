@@ -25,6 +25,16 @@ This repository contains 2 notebooks
   2. Linear Regression with SKlearn-Insurance Dataset.ipynb:
       This notebook contains Scikit-learn implementation using Multivariate Linear Regression
 
+# Run
+In the anaconda promt, navigate to the top-level project directory and run one of the following commands:
+      
+      jupyter notebook "Linear Regression-Insurance Dataset.ipynb"
+      
+      jupyter notebook "Linear Regression with SKlearn-Insurance Dataset.ipynb"
+      
+This will open the Jupyter Notebook software and project file in your browser.
+
+
 # Attribute information
 * age: age of primary beneficiary
 
